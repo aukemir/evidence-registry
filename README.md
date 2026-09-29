@@ -47,6 +47,7 @@ No item in this registry should be interpreted as evidence that a person can gen
 | Has human capability data been collected? | No — 0 |
 | Has electrogenesis been demonstrated? | No |
 | Has a world-first claim been authorized? | No |
+| What is the preserved Program 02 frontier? | Intent-Driven Matter Reconfiguration |
 | Has commercial validation been demonstrated? | No — open |
 
 **Architecture is not physical evidence. Physical evidence is not automatically biological causality. Biological causality is not automatically a human capability.**
@@ -61,7 +62,39 @@ First, controllable electrical output would itself constitute a new functional t
 
 Second, if the relevant biology, scaling, control and integration ultimately survive their gates, electrical output could become a reusable interface for later capability programs.
 
-Possible downstream capability classes include **electromagnetic interaction** and other forms of physical-world control. These are long-range directions, not current evidence or guaranteed programs.
+Aukemir's preserved long-range branch is **P02 — Intent-Driven Matter Reconfiguration**.
+
+The working progression is:
+
+**P01 Voluntary Human Electrogenesis → field-mediated interaction → P02 Intent-Driven Matter Reconfiguration.**
+
+P02 is broader than simply "moving atoms." Atomic manipulation already exists as an instrumental capability. The frontier question is whether human intent can ultimately be coupled to a control stack that reconfigures matter toward specified physical states, with molecular or atomic-scale precision where the enabling physics, sensing, actuation and control systems permit it.
+
+P01 is not treated as proof that P02 is feasible. Its strategic role is to build a potentially reusable endogenous electrical/control interface and the measurement, integration and safety infrastructure needed to make later field-mediated capability research more concrete.
+
+---
+
+## Long-range capability roadmap
+
+### P01 — Voluntary Human Electrogenesis
+
+**Status:** PRIMARY / ACTIVE
+
+Build controlled electrical output as a new human capability and develop the biological, measurement and control infrastructure needed to scale and integrate it.
+
+### Bridge — electromagnetic and field-mediated interaction
+
+**Status:** ENABLING DIRECTION
+
+Explore whether controlled electrical output can become a native interface for increasingly structured interaction with electrically, magnetically and field-mediated systems.
+
+### P02 — Intent-Driven Matter Reconfiguration
+
+**Status:** PRESERVED FRONTIER / LONG-HORIZON
+
+Investigate whether human intent can ultimately be translated into controlled reconfiguration of matter toward specified physical states. Molecular or atomic-scale manipulation sits inside that frontier, but the target is broader than instrumentally moving individual atoms: the human capability is intent-driven physical reconfiguration.
+
+P02 does not split current execution focus with P01. It remains the major preserved long-horizon matter-control branch while electrogenesis is the first execution program.
 
 ---
 
@@ -257,7 +290,7 @@ Public material may identify:
 - voluntary human electrogenesis as the first capability target
 - the high-level first scientific question
 - the compounding capability thesis
-- directional downstream capability classes such as electromagnetic interaction
+- the preserved long-range roadmap: P01 Voluntary Human Electrogenesis → field-mediated interaction → P02 Intent-Driven Matter Reconfiguration
 
 The following remain non-public:
 
